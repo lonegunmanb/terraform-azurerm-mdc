@@ -1,4 +1,4 @@
-module main
+module github.com/Azure/terraform-azurerm-mdc
 
 go 1.19
 
